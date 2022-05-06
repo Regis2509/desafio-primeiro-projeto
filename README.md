@@ -1,3 +1,3 @@
 # desafio-primeiro-projeto
-Primeiro projeto sobre Git/Github
+Primeiro projeto sobre livro-receitas
 repositório criado para o meu primeiro projeto
